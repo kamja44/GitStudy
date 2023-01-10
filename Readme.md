@@ -15,3 +15,12 @@ Clone a Repository from the Internet
 - 사용자의 하드드라이브에 repository를 생성한다.
   Add an Existing Repository from your Hard Drive...
 - 이미 존재하는 repository를 추가한다.
+
+  1.3 ~ 1.4
+  master branch
+
+- 메인 브렌치
+
+create a Branch
+
+- 브랜치 생성
