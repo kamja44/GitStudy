@@ -24,3 +24,7 @@ Clone a Repository from the Internet
 create a Branch
 
 - 브랜치 생성
+
+update from default branch
+
+- master브랜치가 변경되고, feature들이 변경되었을 때 충돌이 일어난다. <- master브랜치의 변경사항을 현재 branch에 반영한다.
